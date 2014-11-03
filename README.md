@@ -10,10 +10,10 @@ Add file `.toolboxrc` into your user home directory with this content:
 TOOLBOX_USER=root</pre>  
 
 ### Usage examples 
-You can use a name of tool as a parameter wgen running toolbox  
+You can use a name of tool as a parameter when running toolbox  
 
 `toolbox htop`	Will run htop  
 `toolbox atop` Will un atop  
 ...  
 
-**Note:** First run might take a little while as there image need to pulled from docker hub repository server. Every other `toolbox command` will work straight away.  
+**Note:** First run might take a little while as the image need to be pulled from docker hub repository server. Every other `toolbox command` will work straight away.  
