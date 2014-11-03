@@ -3,11 +3,12 @@ This is a [million12/toolbox](https://registry.hub.docker.com/u/million12/toolbo
 ### List of installed tools  
 `htop`  `atop`  `nmap`  `iftop`  `iotop`  `mc`  `net-tools`  
 
-### .toolboxrc config  
+### Replace default CoreOS Fedora toolbox  
 Add file `.toolboxrc` into your user home directory with this content:  
-`vi ~/.toolboxrc`
-<pre>TOOLBOX_DOCKER_IMAGE=million12/toolbox
-TOOLBOX_USER=root</pre>  
+`vi ~/.toolboxrc`  
+
+`TOOLBOX_DOCKER_IMAGE=million12/toolbox`  
+`TOOLBOX_USER=root`  
 
 ### Usage examples 
 You can use a name of tool as a parameter when running toolbox  
