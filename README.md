@@ -17,4 +17,13 @@ You can use a name of tool as a parameter when running toolbox
 `toolbox atop` Will un atop  
 ...  
 
-**Note:** First run might take a little while as the image need to be pulled from docker hub repository server. Every other `toolbox command` will work straight away.  
+**Note:** First run might take a little while as the image need to be pulled from docker hub repository server. Every other `toolbox command` will work straight away.
+
+
+## Author(s)
+
+* Przemyslaw Ozgo (<linux@ozgo.info>)
+
+---
+
+**Sponsored by** [Typostrap.io - the new prototyping tool](http://typostrap.io/) for building highly-interactive prototypes of your website or web app. Built on top of TYPO3 Neos CMS and Zurb Foundation framework.
